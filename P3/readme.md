@@ -4,7 +4,7 @@
 
 
 
-![ALL Moodboard [DIU23] (Copy) (3)](/home/inmagalvez/Descargas/ALL Moodboard [DIU23] (Copy) (3).jpg)
+![ALL Moodboard [DIU23] (Copy) (3)](./MOODBOARD.png)
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-![Untitled (2)](/home/inmagalvez/Descargas/Untitled (2).png)
+![Untitled (2)](./LandingPage.png)
 
 
 
@@ -86,7 +86,7 @@ Además, podemos también movernos por la barra de navegación. Esta es la pági
 
 
 
-![image-20230519173828370](/home/inmagalvez/.config/Typora/typora-user-images/image-20230519173828370.png)
+![image-20230519173828370](./HI-FI1.jpeg)
 
 
 
@@ -98,7 +98,7 @@ Esta es la página donde encontramos la variada oferta de cursos que ofrecemos. 
 
 
 
-![image-20230519174313710](/home/inmagalvez/.config/Typora/typora-user-images/image-20230519174313710.png)
+![image-20230519174313710](./HI-FI2.jpeg)
 
 
 
@@ -110,7 +110,7 @@ Esta página nos permite inscribirnos en un curso concreto, donde tendremos que 
 
 
 
-![image-20230519174224807](/home/inmagalvez/.config/Typora/typora-user-images/image-20230519174224807.png)
+![image-20230519174224807](./HI-FI3.jpeg)
 
 
 
@@ -124,7 +124,7 @@ También permite introducir nuevos comentarios.
 
 
 
-![image-20230519174240704](/home/inmagalvez/.config/Typora/typora-user-images/image-20230519174240704.png)
+![image-20230519174240704](./HI-FI4.jpeg)
 
 
 
