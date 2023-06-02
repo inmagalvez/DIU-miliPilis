@@ -24,7 +24,7 @@ Desarrollo de un tablao flamenco en el que se incluyen muchas imágenes y vídeo
 
 ### 2. User Testing
 
-![image-20230602172539558](/home/inmagalvez/.config/Typora/typora-user-images/image-20230602172539558.png)
+![image-20230602172539558](./captura1.png)
 
 
 
@@ -44,7 +44,7 @@ Desarrollo de un tablao flamenco en el que se incluyen muchas imágenes y vídeo
 
 
 
-![image-20230602165247415](/home/inmagalvez/.config/Typora/typora-user-images/image-20230602165247415.png)
+![image-20230602165247415](./captura2.png)
 
 
 
@@ -62,3 +62,4 @@ Como conclusión, vemos que las puntuaciones de ambos casos son todas bastante b
 
 ### 4. Usability Report
 
+Se pueden encontrar en el archivo P4_UsabReport_tablaoflamenco_doneby_DIU1_puntaleños.pdf
